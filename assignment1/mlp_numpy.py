@@ -22,7 +22,7 @@ from __future__ import division
 from __future__ import print_function
 
 from modules import *
-# hoi 
+import math
 
 
 class MLP(object):
